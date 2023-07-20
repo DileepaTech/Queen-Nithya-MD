@@ -25,7 +25,7 @@ Blue Lion whatsapp bot is,
 
  ### FORK BLUE LION REPO
        
-●.  ***Click👉 [FORK](https://github.com/akiyabota)***
+●.  ***Click👉 [FORK](https://github.com/nipuna15/Blue-Lion-V2/fork)***
        
     
   
