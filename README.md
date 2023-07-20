@@ -95,7 +95,7 @@ Copy the JSON down and paste in repl then fill the vars
 <div>
 <h2 align="center">✊ THANKS FOR YOUR ✊</h2>
 <div align="center">
-<img src="https://i.ibb.co/Gx9cT44/IMG-20230708-WA0023.jpg">
+<img src="https://i.ibb.co/Gx9cT44/IMG-20230708-WA0023.jpg"   width="100px">
 </div>
 <hr>
 </div>
