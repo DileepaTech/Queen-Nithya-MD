@@ -50,7 +50,7 @@ Blue Lion whatsapp bot is,
 ## <a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
 </p>
  
-## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://github.com/nipuna15/Blue-Lion-V2)
+## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/nipuna15/Blue-Lion-V2)
 
 **RUN*** Doesn't work, paste these commands in repl shell
 
