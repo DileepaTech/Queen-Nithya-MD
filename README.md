@@ -22,12 +22,6 @@ Blue Lion whatsapp bot is,
       Blue Lion whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
-
- ### FORK BLUE LION REPO
-       
-●.  ***Click👉 [FORK](https://github.com/nipuna15/Blue-Lion-V2/fork)***
-       
-    
   
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
