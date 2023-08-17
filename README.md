@@ -25,7 +25,7 @@ Blue Lion whatsapp bot is,
   
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
- ## [Click Here To Scan](https://inrl-web.onrender.com/viwe/friendpage)
+ ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nipunarangana/BLUE-LION-V2?v=1)
 
 
 
