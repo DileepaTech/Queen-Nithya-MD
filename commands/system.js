@@ -248,7 +248,7 @@ Void.sendMessage(citel.chat, {
           }) 
           await Void.sendPresenceUpdate('recording', citel.chat);
           await Void.sendMessage(citel.chat, { audio: {url : 'https://github.com/nipuna15/Voice/raw/main/Alive.mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Nipuna rangana.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Yasas.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 This is  ${tlang().title}.
