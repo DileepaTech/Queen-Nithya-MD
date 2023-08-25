@@ -113,7 +113,7 @@
    },   
    "PACK_INFO": { 
      "description": "Put packname;authorname.", 
-      "value": "Nipuna;Blue-Lion", 
+      "value": "Dileepa;Nithya", 
       "required": false  
    }, 
    "heroku": { 
