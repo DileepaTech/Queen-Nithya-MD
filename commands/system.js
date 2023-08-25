@@ -1,12 +1,4 @@
-/**  Copyright (C) 2023. 
-  Licensed under the  GPL-3.0 License; 
-  You may not use this file except in compliance with the License. 
-  It is supplied in the hope that it may be useful. 
-  * @project_name : Blue_Lion_Bot 
-  * @author : nipuna rangana
-  * @description : Blue-Lion,A Multi-functional whatsapp bot. 
-  * @version 0.0.2 **/
- 
+
 const { addnote,cmd, sck1, delnote, allnotes, delallnote, tlang, botpic, runtime, prefix, Config } = require('../lib')
 const { TelegraPh } = require('../lib/scraper')   
 //---------------------------------------------------------------------------
@@ -251,7 +243,7 @@ Void.sendMessage(citel.chat, {
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Yasas.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-This is  ${tlang().title}.
+This is QUEEN NITHYA
 ${alivemessage}
 
 🍧Version:-* 0.0.2
@@ -259,9 +251,9 @@ ${alivemessage}
 👤Owner:-* ${Config.ownername}
 🎧Branch:-* ${Config.BRANCH}
 
-● Type ${prefix}menu for my command list.
+● Powerd By Queen Nithya
 
-📗Powered by ${Config.ownername}`;
+📗Owner ${Config.ownername}`;
             let aliveMessage = {
                 image: {
                  url:  await botpic(),
