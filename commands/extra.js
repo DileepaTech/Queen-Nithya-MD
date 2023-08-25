@@ -16,7 +16,7 @@ const PastebinAPI = require("pastebin-js");
 pastebin = new PastebinAPI("EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL");
 cmd({
         pattern: "pastebin",
-        desc: "To check ping",
+        desc: "To check ping ",
         category: "general",
         filename: __filename,
     },
