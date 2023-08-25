@@ -1,7 +1,7 @@
 {
-               "name": "Blue-Lion",
+               "name": "Nithya",
                "version": "0.0.2",
-               "description": "Multi device whatsapp bot by moxie.",
+               "description": "Multi device whatsapp bot ",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/nipuna15/Blue-Lion-V2.git"
+                 "url": "git+https://github.com/DileepaTech/Queen-Nithya-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/nipuna15/Blue-Lion-V2/issues"
+                 "url": "https://github.com/DileepaTech/Queen-Nithya-MD/issues"
                   },
-                 "homepage": "https://github.com/nipuna15/Blue-Lion-V2#readme"
+                 "homepage": "https://github.com/DileepaTech/Queen-Nithya-MD#readme"
                   }
