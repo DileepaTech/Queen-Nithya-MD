@@ -15,7 +15,7 @@ const util = require('util');
 const axios = require('axios');
 cmd({
         pattern: "paste",
-        desc: "create paste of text.",
+        desc: "create paste of text. ",
         category: "general",
         filename: __filename,
     },
