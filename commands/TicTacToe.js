@@ -151,7 +151,7 @@ cmd(
       ) {
         citel.reply(
           {
-            "-3": "The game is over.",
+            "-3": "The game is over .",
             "-2": "Invalid",
             "-1": "_Invalid Position_",
             0: "_Invalid Position_",
