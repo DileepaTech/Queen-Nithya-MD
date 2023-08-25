@@ -73,7 +73,7 @@ yts( opts, async function ( err, playlist ) {
                     }
                    Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
                 } else {
-                    citel.reply(`❌ File size bigger than ${dlsize}mb.`);
+                    citel.reply(` ❌ File size bigger than ${dlsize}mb.`);
                 }
 
                 fs.unlinkSync(`./${randomName}`);
