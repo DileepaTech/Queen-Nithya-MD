@@ -13,7 +13,8 @@
     <img src="https://telegra.ph/file/e737a6573663dcd99f96c.jpg" width="700px">
   </a>
   
-
+## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
+    
 
 
 
