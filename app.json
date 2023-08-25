@@ -8,7 +8,7 @@
  "env": { 
    "OWNER_NAME": { 
    "description": "Name of Bot Owner", 
-       "value": "nipuna" 
+       "value": "Dileepa" 
    }, 
    "ALIVE_MESSAGE": { 
      "description": "Alive message for bot", 
@@ -31,7 +31,7 @@
      }, 
     "THUMB_IMAGE": { 
      "description": "THUMBNAIL for bot.", 
-      "value": "https://raw.githubusercontent.com/nipuna15/nipuna15/main/20230616_150824.png" 
+      "value": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg" 
      }, 
      "ANTI_BAD_WORD": { 
      "description": "Put words here. If you want it enabled in your bot otherwise leave it blank", 
@@ -67,7 +67,7 @@
    }, 
    "OWNER_NUMBER": { 
      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")", 
-        "value": "94714188730" 
+        "value": "94705674697" 
    }, 
      "OPENAI_API_KEY": { 
      "description": "Please put your OPENAI api key here.Get it from beta.openai.com ", 
@@ -80,7 +80,7 @@
    }, 
      "THEME": { 
      "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
-      "value": "Blue-Lion" 
+      "value": "NITHYA" 
    }, 
      "WORKTYPE": { 
    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 
