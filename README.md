@@ -15,7 +15,14 @@
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
+1. ***Get [SESSION-ID](http://nithyabot.42web.io/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+2.  ***Click [FORK](https://github.com/DileepaTech/Queen-Nithya-MD/fork)***
+## Heroku Deployment Method
+3. 
+### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+
+ 
 ## [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/DileepaTech/Queen-Nithya-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94705674697&env[MONGODB_URI]&&env[OWNER_NAME]=Dileepa&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=NITHYA&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=nithya&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
     
 ## [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
