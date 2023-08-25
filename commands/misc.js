@@ -259,7 +259,7 @@ async(Void, citel, text,{ isCreator }) => {
      //---------------------------------------------------------------------------
  
  cmd({
-             pattern: "emix",
+             pattern: "emomix",
              desc: "Mixes two emojies.",
              category: "misc",
              use: '<query>',
