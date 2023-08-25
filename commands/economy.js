@@ -42,7 +42,7 @@
 	const secktor = "secktor"
 	const daily  = await eco.daily(citel.sender, secktor, 2000); //give 500 for daily, can be changed
 	 if (daily.cd) { //cdL is already formatted cooldown Left
-        return await  citel.reply(`🧧 You already claimed daily for today, come back in ${daily.cdL}🫡`)
+        return await  citel.reply(`🧧 You already claimed daily for today, c ome back in ${daily.cdL}🫡`)
 	 } else {
 	 citel.reply(`you claimed daily ${daily.amount} 🪙 for today🎉.`);   
 	 }
