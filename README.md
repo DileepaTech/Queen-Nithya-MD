@@ -19,7 +19,7 @@
 2.  ***Click [FORK](https://github.com/DileepaTech/Queen-Nithya-MD/fork)***
 ## Heroku Deployment Method
 3. 
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
  
