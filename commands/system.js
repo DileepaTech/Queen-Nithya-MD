@@ -246,7 +246,7 @@ Void.sendMessage(citel.chat, {
 This is QUEEN NITHYA
 ${alivemessage}
 
-🍧Version:-* 0.0.2
+🍧Version:-* 0.0.3
 🆙Uptime:-* ${runtime(process.uptime())}
 👤Owner:-* ${Config.ownername}
 🎧Branch:-* ${Config.BRANCH}
