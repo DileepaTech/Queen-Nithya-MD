@@ -17,11 +17,10 @@ Secktor.cmd({
         category: "general",
         filename: __filename,
     },
-    async(Void, citel) => {
-        var inital = new Date().getTime();
-        const { key } = await Void.sendMessage(citel.chat, {text: '```Ping!!```'});
-        var final = new Date().getTime();
-        await Secktor.sleep(1000)
-       return await Void.sendMessage(citel.chat, {text: '*Pong*\n *' + (final - inital) + ' ms* ', edit: key});
+    async (message, match) => {
+    const start = new Date().getTime()
+    const {key} = await message.reply('Ping!')
+    const end = new Date().getTime()
+    return await message.editMessage(message.from,'*⚡PONG!* ' + (end - start) + ' ms', key);
     }
 );
