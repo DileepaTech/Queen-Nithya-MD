@@ -15,7 +15,7 @@ const fs = require('fs-extra')
 const Levels = require("discord-xp");
 const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
 //---------------------------------------------------------------------------
-smd({
+cmd({
     pattern: "antibot",
     desc: "kick Bot Users from Group!",
     category: "group",
@@ -26,7 +26,7 @@ async(Suhail, msg, text , { cmdName ,isCreator}) => {
 })
 //---------------------------------------------------------------------------
 //---------------------------------------------------------------------------
-smd({
+cmd({
     pattern: "disable",
     desc: "disable cmds in Group.!",
     category: "group",
@@ -37,7 +37,7 @@ async(Suhail, msg, text , {isCreator}) => {
 
 })
 //---------------------------------------------------------------------------
-smd({
+cmd({
     pattern: "enable",
     desc: "enable a cmd in Group.!",
     category: "group",
