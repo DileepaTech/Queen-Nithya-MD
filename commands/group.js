@@ -105,9 +105,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel, text) => {
-        citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
-            image: log0,
             caption: `adow comd eka wada bn`,
         });
 
