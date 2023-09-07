@@ -6,10 +6,10 @@
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name moxie",
-                "stop": "pm2 stop moxie"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name dileepa",
+                "stop": "pm2 stop dileepa"
                 },
-               "author": "moxie",
+               "author": "dileepa",
               "dependencies": {
                        "@whiskeysockets/baileys": "git+https://github.com/nipuna15/baileys", 
                        "@adiwajshing/keyed-db": "^0.2.4",
