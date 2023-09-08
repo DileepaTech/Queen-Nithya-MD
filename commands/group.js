@@ -886,6 +886,15 @@ cmd({
         }
 
     )
+//----------------------------------------------------------------
+
+cmd({
+  pattern: 'bug',
+  desc: 'Sends text',
+  category: 'gen',
+  use: '<does this>',
+}, async (Void,citel,text) => {
+await citel.reply("*Bug add karannam idam*")
     //---------------------------------------------------------------------------
 cmd({
             pattern: "block",
