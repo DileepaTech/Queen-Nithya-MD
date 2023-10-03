@@ -1,11 +1,11 @@
 const moment = require('moment-timezone')
-const {cmd } = require('../lib')
+const {cmd,lang, Config, prefix,cmd,fetchJson,Module_Exports, tlang, getBuffer, prefix, name,fancytext,botpic} = require('../lib')
 let gis ='' // require("g-i-s");
 const axios = require('axios')
 const fetch = require('node-fetch')
 
 cmd({
-            kingcmd: "cricket",
+            cmd: "cricket",
             shortcut :['cric'],
             kingclass: "search",
             infocmd: "Sends info of about cricket",
