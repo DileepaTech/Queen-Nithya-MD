@@ -1,15 +1,1 @@
-const {cmd } = require('../lib')
-cmd({
-        pattern: "insta",
-        desc: "download instagram post .",
-        category: "downloader",
-        filename: __filename
-    },
-    async(Void, citel,text,{isCreator}) => {
-        const { Insta } = require('../lib')
-if(!text) return citel.reply('Need post url.')
-let response = await Insta(text)
-for (let i=0;i<response.length;i++) {
-await Void.sendFileUrl(citel.chat, response[i], `*Downloaded Media from instagram.*`, citel)
-}
-    });
+const _0x2c9001=_0x5954;(function(_0x54757f,_0xce2b6){const _0x11254e=_0x5954,_0x4765e8=_0x54757f();while(!![]){try{const _0x2fd40f=parseInt(_0x11254e(0x1c3))/0x1+-parseInt(_0x11254e(0x1c8))/0x2+parseInt(_0x11254e(0x1c0))/0x3*(parseInt(_0x11254e(0x1be))/0x4)+parseInt(_0x11254e(0x1c2))/0x5*(-parseInt(_0x11254e(0x1ba))/0x6)+parseInt(_0x11254e(0x1c9))/0x7*(parseInt(_0x11254e(0x1c1))/0x8)+parseInt(_0x11254e(0x1c4))/0x9+-parseInt(_0x11254e(0x1c7))/0xa;if(_0x2fd40f===_0xce2b6)break;else _0x4765e8['push'](_0x4765e8['shift']());}catch(_0x9a2ba4){_0x4765e8['push'](_0x4765e8['shift']());}}}(_0x4c4e,0x6d77a));function _0x4c4e(){const _0x338871=['712307ocAZIw','7884432XYwmAd','download\x20instagram\x20post\x20.','reply','6788530GeJFHd','336758uKxSlX','7YgWBYy','798PdTpnR','*Downloaded\x20Media\x20from\x20instagram.*','chat','downloader','24fLbdak','../lib','200829valfJK','197824QbgSRH','27035QIpxtN'];_0x4c4e=function(){return _0x338871;};return _0x4c4e();}function _0x5954(_0xbad419,_0x3885ed){const _0x4c4edc=_0x4c4e();return _0x5954=function(_0x5954d8,_0x2d8383){_0x5954d8=_0x5954d8-0x1ba;let _0x5574d3=_0x4c4edc[_0x5954d8];return _0x5574d3;},_0x5954(_0xbad419,_0x3885ed);}const {cmd}=require(_0x2c9001(0x1bf));cmd({'pattern':'insta','desc':_0x2c9001(0x1c5),'category':_0x2c9001(0x1bd),'filename':__filename},async(_0x388c45,_0x3a5cc1,_0x1d19b2,{isCreator:_0x139bed})=>{const _0x58f5e6=_0x2c9001,{Insta:_0x6e97c5}=require('../lib');if(!_0x1d19b2)return _0x3a5cc1[_0x58f5e6(0x1c6)]('Need\x20post\x20url.');let _0x10ca8b=await _0x6e97c5(_0x1d19b2);for(let _0x3f66c2=0x0;_0x3f66c2<_0x10ca8b['length'];_0x3f66c2++){await _0x388c45['sendFileUrl'](_0x3a5cc1[_0x58f5e6(0x1bc)],_0x10ca8b[_0x3f66c2],_0x58f5e6(0x1bb),_0x3a5cc1);}});
