@@ -14,7 +14,7 @@
   </a>
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]([https://nithyamd.vercel.app/])
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://nithyamd.vercel.app/)
 1. ***Get [SESSION-ID](https://nithyamd.vercel.app/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Click [FORK](https://github.com/DileepaTech/Queen-Nithya-MD/fork)***
 ## Heroku Deployment Method
