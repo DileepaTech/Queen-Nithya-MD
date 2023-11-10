@@ -1,6 +1,6 @@
 {
                "name": "Nithya",
-               "version": "0.0.2",
+               "version": "1.0.0",
                "description": "Multi device whatsapp bot ",
                "main": "lib/client.js",
                "type": "commonjs",
