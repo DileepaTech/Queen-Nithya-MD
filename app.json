@@ -2,7 +2,7 @@
    "name": "NITHYA", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
    "logo": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg", 
-   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
+   "keywords": ["nodejs", "bot", "whatsapp bot", "Nithya", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
    "stack": "container", 
  "env": { 
