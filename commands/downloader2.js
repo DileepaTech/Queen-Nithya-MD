@@ -545,9 +545,9 @@ cmd({
 
            
 
-            pack = `𝙳𝙰𝚁𝙺-𝙽𝙴𝚁𝙾-𝙼𝙳 (9.𝟷.𝟶) ✔️`
+            pack = `NITHYA ✔️`
 
-            author = `𝚔𝚊𝚟𝚎𝚎𝚜𝚑𝚊\n𝙼𝙰𝙳𝙴 𝙱𝚈 𝚈𝙰𝙺𝚄𝚉𝙰 🪀`
+            author = `Dileepa\nDILEEPA TECH 🪀`
 
             
 
@@ -584,7 +584,7 @@ cmd({
     )
 cmd({
     pattern: "wabetainfo",
-    alias: ["findapk","playstore"],
+    alias: ["newup","playstore"],
     react: "🧾",
     desc: "",
     category: "download",
