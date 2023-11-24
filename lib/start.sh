@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Secktor-Md..."
+echo "Starting Izuku-Md..."
 node lib/client.js
 done
