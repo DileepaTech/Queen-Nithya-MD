@@ -1,4 +1,4 @@
- { pkgs }: {
+{ pkgs }: {
     deps = [
         pkgs.nodejs
         pkgs.nodePackages.typescript
@@ -16,4 +16,3 @@
     LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [pkgs.libuuid];
   };
 }
-

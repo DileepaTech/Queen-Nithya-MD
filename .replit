@@ -1,3 +1,2 @@
-run = "yarn && npm i pm2 --location=global && pm2 start lib/client.js --deep-monitoring --attach --name dileepa"
-start = "pm2 start lib/client.js --deep-monitoring --attach --name dileepa"
-
+run = "yarn && npm i pm2 --location=global && pm2 start lib/client.js --deep-monitoring --attach --name mac"
+start = "pm2 start lib/client.js --deep-monitoring --attach --name mac"
